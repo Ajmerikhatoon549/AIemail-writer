@@ -116,12 +116,10 @@ Source code available here → [email-reply-extension](https://github.com/Ajmeri
 ---
 
 ## 📸 Screenshots
-
-> assets/homepage.png
-> assets/GeneratedReply.png
-> assets/AIReplyButton-on-Email.png
-> assets/ReplyByAI-Reply.png
-
+<img width="1362" height="695" alt="homepage" src="https://github.com/user-attachments/assets/748ef5ba-9954-4902-a622-af2a840b4312" />
+<img width="1364" height="694" alt="GeneratedReply" src="https://github.com/user-attachments/assets/06923da3-09a7-4124-b698-c3687e454fba" />
+<img width="1366" height="768" alt="AIReplyButton-on-Email" src="https://github.com/user-attachments/assets/9f55b1d9-f8ae-469e-b3e8-2b85428784ed" />
+<img width="1364" height="672" alt="ReplyByAI-Reply" src="https://github.com/user-attachments/assets/f76f9035-1eb3-4da8-8c34-12ae5964c520" />
 
 ## 👩‍💻 Author
 
